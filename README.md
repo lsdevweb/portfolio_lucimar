@@ -28,3 +28,4 @@ descrição do card. A foto utilizada na página é `perfil.jpg`.
 
 O Google Tag Manager está configurado no HTML com o contêiner
 `GTM-PZTV3P8N`.
+# portfolio_lucimar
